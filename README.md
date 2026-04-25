@@ -136,7 +136,7 @@ docker compose up --build
 
 ```bash
 git clone https://github.com/Zebra-developer/Task_Service_API
-cd YOUR_REPOSITORY
+cd Task_Service_API
 ```
 
 ---
