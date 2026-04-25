@@ -135,7 +135,7 @@ docker compose up --build
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Zebra-developer/Task_Service_API
 cd YOUR_REPOSITORY
 ```
 
